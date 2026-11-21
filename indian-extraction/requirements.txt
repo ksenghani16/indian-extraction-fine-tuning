@@ -1,0 +1,9 @@
+# Install PyTorch FIRST using Intel's instructions for Arc (XPU), then:
+faker
+transformers
+datasets
+accelerate
+peft
+trl
+gradio
+requests
